@@ -94,7 +94,7 @@ If any of the .Spe files are missing, the scripts will print a warning and skip 
 
 
 
---- Dependencies ---
+## Dependencies
 
 The code requires:
 	•	Python 3 (3.8+ recommended)
@@ -106,7 +106,7 @@ pathlib and os are part of the Python standard library.
 
 
 
---- How to Run the Scripts ---
+## How to Run the Scripts 
 
 All scripts should be run from inside the Python Code/ directory.
 
@@ -206,7 +206,7 @@ All scripts should be run from inside the Python Code/ directory.
     ../Plots/Coincidence Plots/Main Plots/
 
 
--- Notes --
+## Notes
 	•	All paths in the scripts are relative to the script locations; no machine-specific absolute paths are used.
 	•	If you rename data files or change the folder structure, you will need to update the corresponding paths in the Python scripts.
 	•	The statistical methods (MLE, Hessian-based uncertainties, ODR, Monte Carlo, χ²) are documented in the lab report; this code is provided as supporting material.
