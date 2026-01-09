@@ -8,7 +8,17 @@ This repository contains the analysis code and data used for the gamma spectrosc
 
 The code is written so that it can be run on any machine, as long as the folder structure and file names are preserved.
 
----
+## TL;DR
+
+Physics data analysis project using Python to analyze gamma spectroscopy data.
+
+Key techniques:
+- Poisson maximum likelihood estimation for spectral peak fitting
+- Energy calibration with orthogonal distance regression (ODR)
+- Inverse-square law validation
+- Coincidence angular distribution analysis
+
+See `Gamma_Spectroscopy_Lab_Report-4.pdf` for the full scientific report.
 
 ## Folder Structure
 
