@@ -110,6 +110,7 @@ pathlib and os are part of the Python standard library.
 
 All scripts should be run from inside the Python Code/ directory.
 
+## Scripts description 
 
 1. Energy Calibration (gamma_calibration.py)
 
